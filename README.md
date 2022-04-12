@@ -94,7 +94,7 @@ First, build the application by running the following command:
 make clean && make -j$(nproc)
 ```
 
-This will generate the binary called `pedestrian_safety`. This is a one-time step and you need to do this only when you make source-code changes.
+This will generate the binary called `person_safety`. This is a one-time step and you need to do this only when you make source-code changes.
 
 ### 4. Run with different input sources
 
@@ -108,7 +108,7 @@ rtsp://admin:admin%5346@194.162.5.14:554/stream
 Now, run the application by running the following command:
 
 ```sh
-./pedestrian_safety
+./person_safety
 ```
 
 ## Citations
