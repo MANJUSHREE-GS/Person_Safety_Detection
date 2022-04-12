@@ -12,7 +12,7 @@ This app, built on Nvidia's Deepsteam SDK, would also help corporate buildings, 
 
 ## Index
 
-1. [Introduction] (#Introduction)
+1. [Introduction](#Introduction)
 
 2. [Deepstream Setup](#Deepstream-Setup)
     1. [Install System Dependencies](#Install-System-Dependencies)
